@@ -1,0 +1,56 @@
+.app-container {
+  display: flex;
+}
+
+.content {
+  width: 100%;
+}
+
+/* sidebar.jsx*/
+.sidebar {
+  min-height: 800px;
+}
+
+.iws {
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.left {
+  margin-left: 200x;
+}
+
+.fl {
+  display: flex;
+  margin-top: 20px;
+}
+
+.space {
+  margin-left: 10px;
+  gap: 15px;
+}
+
+.inp {
+  margin-right: 15px;
+  min-width: 40vh;
+  width: 100%;
+}
+
+.post-card {
+  margin: 20px 50px;
+
+}
+
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+
+.reactions {
+  margin: 15px 0 0 0;
+}
+
+.hashtag {
+  margin: 0px 3px;
+}
