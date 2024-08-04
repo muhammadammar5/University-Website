@@ -1,1 +1,28 @@
-hi
+UNIVERSITY-WEBSITE:
+This is a great responsive website for a student portal called as Flex
+Student can check his/her marks,grade,attendance,fee etc
+
+Structure:
+Main part of code lies in src folder
+It has sub-folders assets,components,store and 3 files , 2 of javascript xml,1 of cascading stylesheet
+
+Components:
+Includes pictures
+All jsx component files which are used together to make this functional
+
+Store:
+javascript extension which handle logic of react.js to make UI look simpler
+
+Getting started:
+You can either clone it using git OR
+Follow these steps:
+1) install node.js for windows/mac
+2) npm create vite@latest (run on terminal)
+3) you can chose project name of ur choice and language as react
+4) npm install
+5) Copy these files to ur scr,comp,store as explained above
+5) npm run dev
+
+Contributing:
+If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome all contributions!
+
